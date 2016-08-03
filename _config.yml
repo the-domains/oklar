@@ -1,0 +1,14 @@
+layout_spectrum: 0.30994113394990563
+typography_spectrum: 0.29936867393553257
+color:
+  brandStrength: 0.5854238742031157
+  lightness: 0.18154086382128298
+  saturation: 0.21572523703798652
+  rhythmicContrast: 0.36437064758501947
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Oklar
