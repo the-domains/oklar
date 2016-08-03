@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T02:20:16.574Z'
+datePublished: '2016-08-03T02:21:36.517Z'
 sourcePath: >-
   _posts/2016-04-16-food-and-beer-pre-order-or-food-and-cookery-or-phaidon-store.md
 inFeed: true
@@ -19,11 +19,11 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-03T02:20:15.788Z'
+dateModified: '2016-08-03T02:21:35.883Z'
 title: Sostenibilidad Empresarial
 app_links: []
 publisher:
-  url: 'http://www.phaidon.com'
+  url: 'http://www.oklar.com'
   name: Phaidon
   favicon: 'http://www.phaidon.com/favicon.ico'
   domain: www.phaidon.com
