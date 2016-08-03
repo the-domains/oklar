@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T02:16:11.189Z'
+datePublished: '2016-08-03T02:20:16.574Z'
 sourcePath: >-
   _posts/2016-04-16-food-and-beer-pre-order-or-food-and-cookery-or-phaidon-store.md
 inFeed: true
@@ -18,8 +18,9 @@ keywords:
   - noma
 related: []
 author: []
-dateModified: '2016-08-03T02:16:10.254Z'
-title: Food & Beer (Pre-order) | Food & Cookery | Phaidon Store
+via: {}
+dateModified: '2016-08-03T02:20:15.788Z'
+title: Sostenibilidad Empresarial
 app_links: []
 publisher:
   url: 'http://www.phaidon.com'
@@ -33,10 +34,9 @@ description: >-
   of wine in fine dining.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Food &amp; Beer (Pre-order) | Food &amp; Cookery | Phaidon Store</h1><p>The debut book by Danish gypsy brewer Jeppe Jarnit-Bjergsø of the bar Tørst, and Canadian chef Daniel Burns of the Michelin-starred restaurant Luksus-both in a shared space in Greenpoint, Brooklyn where they elevate beer to the level of wine in fine dining.</p><img src="http://www.phaidon.com/resource/9780714871059-620-new1.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/582df40c-a4d5-4f3d-89a3-6b873d2ea9ba.jpg)
