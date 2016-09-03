@@ -1,4 +1,3 @@
-layout_spectrum: 0.30994113394990563
 typography_spectrum: 0.29936867393553257
 color:
   brandStrength: 0.5854238742031157
@@ -11,4 +10,10 @@ color:
     - '#B0C9C6'
     - '#739C99'
     - '#48807C'
+layout_spectrum: 0.30994113394990563
+author:
+  name: oklar sas
+  email: info@oklar.co
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9cbaf4d-222f-493b-b0a4-91ba1ef03767.png
 name: Oklar
